@@ -1,3 +1,4 @@
+Weather station with ultrasound anenometer
 Measuring windspeed in the Western Isles
 
 The background to this project is the storm which swept over the Western Isles on January 8 2015. The windspeed regularly exceeded 100 mph, and a friend's weatherstation was swept away. My idea was to develop a weather station (windspeed, temperature, air pressure) with no moving parts.
